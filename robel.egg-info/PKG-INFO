@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: robel
+Version: 0.1.2
+Summary: Robotics reinforcement learning benchmark tasks with cost-effective robots.
+Home-page: UNKNOWN
+License: Apache 2.0
+Description: # dkitty_project
+        class project for locomotion tasks: Dkitty
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Intended Audience :: Science/Research
+Requires-Python: >=3.5.3
+Description-Content-Type: text/markdown
